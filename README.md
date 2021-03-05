@@ -1,6 +1,6 @@
 # Audio Data Annotation and Exploration Tool (Work in Progress)
 
-![demo](demo.mp4)
+![](demo.mp4)
 
 Currently it is mainly implemented for audio files. The application consists of two main windows:
 
