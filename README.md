@@ -1,7 +1,7 @@
 # Audio Data Annotation and Exploration Tool (Work in Progress)
 
 <video width="320" height="240" controls>
-  <source src="video.mov" type="demo.mp4">
+  <source src="demo.mp4" type="demo.mp4">
 </video>
 
 Currently it is mainly implemented for audio files. The application consists of two main windows:
