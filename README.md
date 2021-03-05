@@ -1,5 +1,9 @@
 # Audio Data Annotation and Exploration Tool (Work in Progress)
 
+https://user-images.githubusercontent.com/18379156/110073971-0d2d5b80-7d89-11eb-988c-79951239e368.mp4
+
+
+
 Currently it is mainly implemented for audio files. The application consists of two main windows:
 
 1. The point cloud that represents the dataset in it's entirety. Each point represents a data sample. Points are organized using a manifold learning algorithm such as TSNE or UMAP (Manifold learning is an approach to non-linear dimensionality reduction. Algorithms for this task are based on the idea that the dimensionality of many data sets is only artificially high). This point cloud can be visualized using Vispy in python which utilizes glsl shaders to make this efficient.
