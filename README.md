@@ -1,6 +1,6 @@
 # Audio Data Annotation and Exploration Tool (Work in Progress)
 
-![demo](https://user-images.githubusercontent.com/18379156/110073971-0d2d5b80-7d89-11eb-988c-79951239e368.mp4)
+![demo](demo.mp4)
 
 Currently it is mainly implemented for audio files. The application consists of two main windows:
 
